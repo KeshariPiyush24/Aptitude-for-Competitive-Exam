@@ -1,0 +1,32 @@
+# Logical Reasoning
+- Alphanumeric series
+- Artificial Language
+- Blood Relations
+- Calendars
+- Cause and Effect
+- Clocks
+- Coding-Decoding
+- Critical path
+- Cubes and cuboids
+- Data Sufficiency
+- Decision Making
+- Deductive Reasoning/Statement Analysis
+- Dices
+- Directions
+- Embedded Images
+- Figure Matrix
+- Input-Output
+- Mirror and Water Images
+- Odd One Out
+- Order & Ranking
+- Paper Folding
+- Pattern Series and Sequences
+- Picture Series and Sequences
+- Puzzles
+- Reasoning Analogies
+- Seating Arrangements
+- Seating Arrangements
+- Shape Construction
+- Statement and Assumptions
+- Statement and Conclusions
+- Syllogism
