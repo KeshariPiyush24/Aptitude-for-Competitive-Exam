@@ -1,7 +1,4 @@
 # Quantitative Aptitude
-
-## Speed Math
-
 ## Arithmetic
 - [Boats and Stream](https://youtu.be/kYLWhzcJO74)
 - [Chain Rule](https://youtu.be/pYL2843EEuQ)
@@ -13,7 +10,7 @@
 - [HCF and LCM](https://youtu.be/xyyejJYeILM)
 - [Heights and Distances](https://youtu.be/kcgqVsayZG4)
 - [Logarithms](https://youtu.be/le5D8_q094U)
-- [Mean, Media and Mode](https://youtu.be/g5EA7OoFAEE)
+- [Mean, Media and Mode](https://youtu.be/zjHfAhcU6kE)
 - [Mixtures and Allegations](https://youtu.be/OKSJDDAyqP0)
 - [Number Systems](https://youtu.be/XBQXX-nFzr0)
 - [Partnership](https://youtu.be/hn9TKnr8L_8)
@@ -25,7 +22,6 @@
 - [Profit, Loss and Discount](https://youtu.be/T2odvmxqi1I)
 - [Ration and Proportion](https://youtu.be/jfoJBivWlnQ)
 - [Remainder Theorem](https://youtube.com/playlist?list=PLb2I6LyBNzJ3ZTUjukv6U8mkWSjXg9dgR)
-- [Unit Digit](https://youtu.be/81pwuMJ8OIU)
 - [Set Theory](https://youtu.be/Qi8tNC4x8ug)
 - [Simple Interest and Compound Interest](https://youtube.com/playlist?list=PLb2I6LyBNzJ3MvW6LZsHLtSqOXKljB9eF)
 - [Simplification and Approximation](https://youtu.be/7jBYqUMw1Zg)
@@ -33,6 +29,7 @@
 - [Square roots and Cube roots](https://youtu.be/_HyhwS8P9KY)
 - [Stocks and Shares](https://youtu.be/155IpGiZJhc)
 - [Surds and Indices](https://youtu.be/jAbpPTpz2bQ)
+- [Unit Digit](https://youtu.be/ol7Lo9b0f4o)
 - [V.B.O.D.M.A.S](https://youtu.be/ZuMJFleXmiw)
 - [Work, Salary and Time](https://youtu.be/KE7tQf9spPg)
 ## Geometry
