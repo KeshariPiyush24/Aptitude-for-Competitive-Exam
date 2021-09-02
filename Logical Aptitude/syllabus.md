@@ -2,9 +2,9 @@
 - Alphanumeric series
 - Artificial Language
 - Blood Relations
-- [Calendars](https://youtu.be/fa0x2KkKPgk)
+- [Calendars](https://youtube.com/playlist?list=PLb2I6LyBNzJ2OF0bd_HvYhq0ztj8NFM3k)
 - Cause and Effect
-- Clocks
+- [Clocks](https://youtube.com/playlist?list=PLOoogDtEDyvs3Qznc3-1DnlpbQSRuWP-z)
 - Coding-Decoding
 - Critical path
 - Cubes and cuboids
@@ -12,7 +12,7 @@
 - Decision Making
 - Deductive Reasoning/Statement Analysis
 - Dices
-- Directions
+- [Directions](https://youtube.com/playlist?list=PLOoogDtEDyvurBIdRhhsPZ1Si-BdLbyTR)
 - Embedded Images
 - Figure Matrix
 - Input-Output
